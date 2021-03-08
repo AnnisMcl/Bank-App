@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bank_app</string>
+    <string name="welcome">Welcome in your bank account</string>
+    <string name="button_main">View account</string>
+    <string name="welcome_account">Welcome</string>
+    <string name="id_account">Account ID</string>
+    <string name="amount">Money: </string>
+    <string name="iban">IBAN</string>
+    <string name="id">ID</string>
+    <string name="monaie">Monnaie</string>
+    <string name="select">Select the account you want to see</string>
+    <string name="validation">Press here to see details</string>
+    <string name="todo">TODO</string>
+</resources>
